@@ -8,7 +8,7 @@ Here's the new behavior in the default theme.
 
 ![aligned-callout-header-titles](https://github.com/nickmilo/aligned-callout-header-titles/assets/35411533/ddbbb5d8-fd0b-4f73-a58a-18ec76310490)
 
-## Steps to get it working
+## Steps to get it going
 
 1. Download it.
 2. Put it in your snippets folder (within the .Obsidian folder)
